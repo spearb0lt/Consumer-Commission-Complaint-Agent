@@ -4,6 +4,15 @@ from __future__ import annotations
 import os
 from pathlib import Path
 
+# Streamlit Cloud support
+try:
+    import streamlit as st
+
+    for key, value in st.secrets.items():
+        os.environ.setdefault(key, str(value))
+except Exception:
+    pass
+
 from dotenv import load_dotenv
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
