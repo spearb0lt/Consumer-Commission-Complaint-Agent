@@ -1,0 +1,115 @@
+{
+  "source": "Curated complaint-category playbook for the Consumer Protection Act, 2019. Reliefs and section references are guidance, not legal advice.",
+  "disclaimer": "Always confirm applicable sections and reliefs with a qualified advocate before filing. The relief language below is a starting point.",
+  "categories": [
+    {
+      "key": "defective_goods",
+      "label": "Defective goods (manufacturing defect, damaged product, wrong item delivered)",
+      "primary_sections": ["2(7)", "2(10)", "2(34)", "39", "69"],
+      "typical_reliefs": [
+        "Direct the Opposite Party to refund the full purchase price paid by the Complainant, together with interest thereon at the rate of 9% per annum from the date of payment till realisation",
+        "Direct the Opposite Party to replace the defective product with a brand-new defect-free product of the same description, make, and specifications, at no additional cost to the Complainant",
+        "Direct the Opposite Party to pay compensation for mental agony, harassment, and incidental expenses suffered by the Complainant on account of the deficient conduct of the Opposite Party",
+        "Direct the Opposite Party to pay the costs of this complaint as assessed by this Hon'ble Commission"
+      ],
+      "evidence_checklist": [
+        "Invoice / receipt of purchase (Annexure-A)",
+        "Photographs / video of the defect (Annexure-B)",
+        "Warranty card (Annexure-C)",
+        "Communication with seller / manufacturer — emails, chats, complaint tickets (Annexure-D)",
+        "Independent expert / technician report identifying the defect (Annexure-E, if available)"
+      ]
+    },
+    {
+      "key": "deficient_service",
+      "label": "Deficient service (telecom, banking, insurance, courier, e-commerce platform)",
+      "primary_sections": ["2(7)", "2(11)", "2(42)", "39", "69"],
+      "typical_reliefs": [
+        "Direct the Opposite Party to render the service contracted and paid for, within a time stipulated by this Hon'ble Commission, failing which to refund the fees / charges paid",
+        "Direct the Opposite Party to refund the fees, charges, and any wrongful deductions made, together with interest thereon at the rate of 9% per annum from the date of payment till realisation",
+        "Direct the Opposite Party to pay compensation for loss caused by the deficiency in service and for mental agony, harassment, and inconvenience suffered",
+        "Direct the Opposite Party to pay the costs of this complaint as assessed by this Hon'ble Commission"
+      ],
+      "evidence_checklist": [
+        "Service contract / subscription agreement / terms and conditions (Annexure-A)",
+        "Bills / payment receipts / bank statements showing charges paid (Annexure-B)",
+        "Complaint tickets / grievance reference numbers (Annexure-C)",
+        "All correspondence with the service provider — emails, chat transcripts, letters (Annexure-D)",
+        "Bank / account statements showing wrongful charges or deductions (Annexure-E)"
+      ]
+    },
+    {
+      "key": "unfair_trade_practice",
+      "label": "Unfair / misleading trade practice (false promises, hidden charges, misleading ads)",
+      "primary_sections": ["2(7)", "2(47)", "39", "69"],
+      "typical_reliefs": [
+        "Direct the Opposite Party to immediately discontinue the unfair trade practice complained of and to restrain from adopting similar practices in future",
+        "Direct the Opposite Party to refund the price paid by the Complainant as a result of the misrepresentation / unfair trade practice, together with interest thereon at 9% per annum",
+        "Direct the Opposite Party to issue corrective advertisements in the same medium and with the same prominence as the offending advertisement, at the Opposite Party's own cost",
+        "Direct the Opposite Party to pay compensation for loss and mental agony suffered",
+        "Direct the Opposite Party to pay the costs of this complaint as assessed by this Hon'ble Commission"
+      ],
+      "evidence_checklist": [
+        "Copy of the misleading advertisement / brochure / website screenshot with timestamp (Annexure-A)",
+        "Invoice showing price paid (Annexure-B)",
+        "Comparison document showing what was promised vs. what was delivered (Annexure-C)",
+        "Witness statements, if any (Annexure-D)"
+      ]
+    },
+    {
+      "key": "medical_negligence",
+      "label": "Medical negligence (consumer service deficiency by hospitals / clinics)",
+      "primary_sections": ["2(7)", "2(11)", "2(42)", "39", "69"],
+      "typical_reliefs": [
+        "Direct the Opposite Party to pay compensation for the medical expenses incurred by the Complainant as a direct result of the negligent treatment / deficiency in service",
+        "Direct the Opposite Party to pay compensation for the pain, suffering, permanent disability (if any), and loss of future earnings suffered by the Complainant",
+        "Direct the Opposite Party to pay compensation for mental agony and trauma caused to the Complainant and the Complainant's family",
+        "Direct the Opposite Party to pay the costs of this complaint as assessed by this Hon'ble Commission"
+      ],
+      "evidence_checklist": [
+        "Complete medical records — admission file, case history, discharge summary, prescriptions (Annexure-A)",
+        "Hospital bills and payment receipts (Annexure-B)",
+        "Second medical opinion / expert report identifying the deficiency or negligence (Annexure-C)",
+        "Chronological treatment timeline prepared by the Complainant (Annexure-D)"
+      ]
+    },
+    {
+      "key": "real_estate",
+      "label": "Real estate / builder dispute (delayed possession, deviation from sanctioned plan)",
+      "primary_sections": ["2(7)", "2(11)", "2(34)", "39", "69"],
+      "typical_reliefs": [
+        "Direct the Opposite Party / builder to hand over physical possession of the said unit / property forthwith and to pay delay compensation at the rate stipulated in the builder-buyer agreement (or at such rate as this Hon'ble Commission may determine) for the entire period of delay",
+        "In the alternative, direct the Opposite Party to refund the entire amount paid by the Complainant together with interest thereon at the rate of 9% per annum from the respective dates of payment till actual realisation",
+        "Direct the Opposite Party to pay compensation for rent paid by the Complainant during the period of delay",
+        "Direct the Opposite Party to pay compensation for mental agony, hardship, and incidental expenses",
+        "Direct the Opposite Party to pay the costs of this complaint as assessed by this Hon'ble Commission"
+      ],
+      "evidence_checklist": [
+        "Builder-buyer agreement / allotment letter (Annexure-A)",
+        "All payment receipts and bank statements evidencing payments made (Annexure-B)",
+        "Sanctioned plan vs. as-built plan comparison showing deviations, if any (Annexure-C)",
+        "All correspondence with the builder including possession letters and demand notices (Annexure-D)",
+        "RERA registration details and RERA complaint number, if applicable (Annexure-E)"
+      ]
+    },
+    {
+      "key": "e_commerce",
+      "label": "E-commerce / online marketplace dispute",
+      "primary_sections": ["2(7)", "2(10)", "2(11)", "94", "39", "69"],
+      "typical_reliefs": [
+        "Direct the Opposite Party / platform to refund the price paid by the Complainant, together with interest thereon at 9% per annum from the date of payment till realisation",
+        "In the alternative, direct the Opposite Party to replace the defective / wrong item with the correct product as described and advertised at the time of purchase, at no additional cost",
+        "Direct the Opposite Party to pay compensation for incidental expenses including return shipping costs, loss of work time, and out-of-pocket expenses incurred in pursuing the grievance",
+        "Direct the Opposite Party / platform to comply with its published return and refund policy and to restrain from unfair trade practices in future",
+        "Direct the Opposite Party to pay the costs of this complaint as assessed by this Hon'ble Commission"
+      ],
+      "evidence_checklist": [
+        "Order confirmation page / email / app screenshot with order ID (Annexure-A)",
+        "Screenshot of the product listing as it appeared at the time of purchase, with description and specifications (Annexure-B)",
+        "All chat / email communications with platform support and the seller (Annexure-C)",
+        "Photographs of the received goods showing defect / discrepancy (Annexure-D)",
+        "Bank / UPI / wallet statement showing payment (Annexure-E)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "source": "Consumer Protection (Jurisdiction of the District Commission, the State Commission and the National Commission) Rules, 2021, notified by the Department of Consumer Affairs.",
+  "source_url": "https://consumeraffairs.nic.in/",
+  "disclaimer": "Pecuniary limits have changed multiple times since 2019 and may change again. Verify current limits via the Department of Consumer Affairs notifications before filing.",
+  "currency": "INR",
+  "pecuniary_thresholds": {
+    "district_commission_max_inr": 5000000,
+    "state_commission_max_inr": 20000000,
+    "comment": "District: up to Rs. 50 lakh (50,00,000). State: above Rs. 50 lakh up to Rs. 2 crore (2,00,00,000). National: above Rs. 2 crore."
+  },
+  "territorial_rules": {
+    "comment": "Per Section 34 of CPA 2019, a complaint may be filed before the District Commission where (a) the opposite party resides or carries on business or has a branch office, OR (b) the cause of action wholly or in part arises, OR (c) the complainant resides or personally works for gain (introduced by CPA 2019 — a significant pro-consumer change vs. the 1986 Act).",
+    "complainant_location_allowed": true
+  },
+  "limitation_years": 2,
+  "filing_fee_indicative": {
+    "comment": "Indicative filing fees per common practice (verify current schedule with your State's Consumer Commission rules). Some states waive fees up to small claim thresholds.",
+    "district": [
+      {"upto_inr": 500000, "fee_inr": 200},
+      {"upto_inr": 1000000, "fee_inr": 400},
+      {"upto_inr": 2000000, "fee_inr": 500},
+      {"upto_inr": 4000000, "fee_inr": 2000},
+      {"upto_inr": 5000000, "fee_inr": 4000}
+    ],
+    "state": [
+      {"upto_inr": 10000000, "fee_inr": 4000},
+      {"upto_inr": 20000000, "fee_inr": 5000}
+    ],
+    "national": [
+      {"upto_inr": 100000000, "fee_inr": 5000},
+      {"upto_inr": null, "fee_inr": 7500}
+    ]
+  },
+  "e_filing": {
+    "portal_name": "e-Daakhil",
+    "portal_url": "https://edaakhil.nic.in",
+    "comment": "e-Daakhil is the National Consumer Disputes Redressal Commission's online filing portal. It has been progressively rolled out to State and District Commissions across India."
+  }
+}

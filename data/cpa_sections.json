@@ -1,0 +1,82 @@
+{
+  "source": "Consumer Protection Act, 2019 (Act No. 35 of 2019) and Consumer Protection (Jurisdiction of the District Commission, the State Commission and the National Commission) Rules, 2021.",
+  "source_url": "https://consumeraffairs.nic.in/sites/default/files/CP%20Act%202019.pdf",
+  "disclaimer": "These are curated summaries for guidance. Verify against the official Act and current Rules before relying on them for any filing.",
+  "sections": [
+    {
+      "section": "2(7)",
+      "title": "Definition: consumer",
+      "summary": "A person who buys goods or hires or avails of services for consideration. Excludes those who purchase for resale or commercial purpose, with an exception for goods bought for the purpose of earning a livelihood by means of self-employment."
+    },
+    {
+      "section": "2(10)",
+      "title": "Definition: defect",
+      "summary": "Any fault, imperfection, shortcoming or inadequacy in the quality, quantity, potency, purity or standard which is required to be maintained by or under any law for the time being in force or under any contract, express or implied, or as is claimed by the trader in any manner whatsoever in relation to any goods or product."
+    },
+    {
+      "section": "2(11)",
+      "title": "Definition: deficiency",
+      "summary": "Any fault, imperfection, shortcoming or inadequacy in the quality, nature and manner of performance which is required to be maintained by or under any law for the time being in force or has been undertaken to be performed by a person in pursuance of a contract or otherwise in relation to any service."
+    },
+    {
+      "section": "2(34)",
+      "title": "Definition: product liability",
+      "summary": "The responsibility of a product manufacturer, product seller, or product service provider to compensate for any harm caused to a consumer by such defective product manufactured or sold or by deficiency in services relating thereto."
+    },
+    {
+      "section": "2(42)",
+      "title": "Definition: service",
+      "summary": "Service of any description which is made available to potential users, including banking, financing, insurance, transport, processing, supply of electrical or other energy, telecom, boarding or lodging, housing construction, entertainment, amusement, the purveying of news or other information, but does not include the rendering of any service free of charge or under a contract of personal service."
+    },
+    {
+      "section": "2(47)",
+      "title": "Definition: unfair trade practice",
+      "summary": "A trade practice which, for the purpose of promoting the sale, use or supply of any goods or for the provision of any service, adopts any unfair method or deceptive practice including false representation of quality or standard, misleading advertisement, bait-and-switch offers, false warranty, non-issuance of bill, and other enumerated acts."
+    },
+    {
+      "section": "17",
+      "title": "Filing of complaints",
+      "summary": "Specifies the manner in which a complaint may be filed before a District Commission — in person, by post, or electronically through the designated portal — and the documents to be submitted along with the complaint."
+    },
+    {
+      "section": "34",
+      "title": "Jurisdiction of District Commission — territorial",
+      "summary": "A complaint may be filed before the District Commission within the local limits of whose jurisdiction (a) the opposite party resides or carries on business or has a branch office; (b) the cause of action wholly or in part arises; or (c) the complainant resides or personally works for gain. Clause (c) is a significant pro-consumer addition over the 1986 Act."
+    },
+    {
+      "section": "35",
+      "title": "Who may file a complaint",
+      "summary": "The consumer; any recognised consumer association; the Central or State Government; one or more consumers having the same interest (representative complaint); or the legal heir or representative of a deceased consumer."
+    },
+    {
+      "section": "38",
+      "title": "Procedure on admission of complaint",
+      "summary": "On admission, the Commission issues notice to the opposite party who must file a written response within 30 days (extendable by a further 15 days for sufficient cause). Evidence is to be furnished by way of affidavits."
+    },
+    {
+      "section": "39",
+      "title": "Reliefs available",
+      "summary": "The Commission may order: removal of defects; replacement of goods; refund of price with interest; compensation for loss or injury; removal of deficiency in service; discontinuation of unfair trade practice; withdrawal of hazardous goods from sale; corrective advertisement; and punitive damages in appropriate cases."
+    },
+    {
+      "section": "47",
+      "title": "Jurisdiction of State Commission",
+      "summary": "The State Commission entertains complaints where the value of the goods or services paid and the compensation claimed exceeds Rs. 50 lakh but does not exceed Rs. 2 crore (as per the Consumer Protection (Jurisdiction) Rules, 2021)."
+    },
+    {
+      "section": "69",
+      "title": "Limitation period",
+      "summary": "A complaint must be filed within 2 years from the date on which the cause of action arose. The Commission may admit a complaint after the limitation period if sufficient cause for delay is shown and it is satisfied that the delay was not attributable to the complainant."
+    },
+    {
+      "section": "94",
+      "title": "E-commerce provisions",
+      "summary": "E-commerce entities are required to provide information about the seller and the goods/services, establish an adequate grievance redressal mechanism, and ensure that traders/sellers on the platform comply with applicable laws. The Consumer Protection (E-Commerce) Rules, 2020 issued under this provision impose specific obligations on marketplace platforms."
+    },
+    {
+      "section": "100",
+      "title": "Act in addition to other laws",
+      "summary": "The provisions of the Consumer Protection Act, 2019 are in addition to and not in derogation of the provisions of any other law for the time being in force. This preserves the complainant's right to pursue remedies under RERA, IBC, or other legislation concurrently."
+    }
+  ]
+}
